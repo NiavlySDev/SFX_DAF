@@ -12,3 +12,6 @@ Peintures pour les Camions DAF [ShockFX-Transport]
   - Space Aero
   - Super Space
 
+# Crédits:
+https://sharemods.com/uv48qyjsr6nj/Paint-Job-Packer-v1.10.3-Windows.zip.html
+Photoshop
