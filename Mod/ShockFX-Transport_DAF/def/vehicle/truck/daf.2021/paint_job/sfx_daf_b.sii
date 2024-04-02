@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data: sfx_daf_b.daf.2021.paint_job
+{
+@include "sfx_daf_settings.sui"
+	suitable_for[]: "xg.daf.2021.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/DAF 2021/Cabin B (XG).tobj"
+}
+}
