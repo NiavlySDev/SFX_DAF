@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data: sfx_daf_c.daf.xf.paint_job
+{
+@include "sfx_daf_settings.sui"
+	suitable_for[]: "space_cab.daf.xf.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFX-Transport/DAF XF105/Cabin C (Space).tobj"
+}
+}
